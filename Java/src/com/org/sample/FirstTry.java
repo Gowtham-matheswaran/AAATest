@@ -9,11 +9,12 @@ public class FirstTry {
 		System.out.println(a+b);
 		System.out.println(b+c);
 		System.out.println(c+a);
-		
+
 		System.out.println(a+a);
 		System.out.println(b+b);
 		System.out.println(c+c);
-		
-		
+		System.out.println(c+a);
+
+
 	}
 }
